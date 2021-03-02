@@ -3,7 +3,7 @@ class ThisWillActuallyRun {
 
     @RequestMapping("/")
     String home() {
-        return "Hello, World! 27"
+        return "Hello, World! 10"
     }
 
 }
